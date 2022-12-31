@@ -1,0 +1,14 @@
+{
+  "name": "employee-organization-app",
+  "version": "1.0.0",
+  "description": "Employee Organization App",
+  "main": "./dist/emp-app",
+  "scripts": {
+    "dev": "node ./dist/emp-app.js"
+  },
+  "author": "Myat Thiha",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
